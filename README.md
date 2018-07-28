@@ -6,11 +6,8 @@ ___
 ### ToDo:
 ##### 1. Refactoring
 * ###### Exicting files
-* ###### New files
 ##### 2. Project Update
 * ###### Graphics
-* ###### Interface
-* ###### Levels
 * ###### Backend ( **? _Django / Flask_** )
 * ###### Database ( **? _PostgreSQL / SQLite_** )
 ##### 3. Web
@@ -18,7 +15,7 @@ ___
 * ###### Stylesheets
 * ###### Reactivity ( **_JS/Vue.js_** )
 ##### 4. Deploy
-* ###### As part of some other project or as itself
+* ###### As part of another project or as itself
 
 ___
 
