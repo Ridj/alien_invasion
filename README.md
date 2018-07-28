@@ -22,5 +22,4 @@ ___
 
 ___
 
->**Development:** since jan 2018
 >**Ongoing:** ```True```
